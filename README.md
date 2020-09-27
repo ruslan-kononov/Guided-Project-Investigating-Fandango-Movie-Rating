@@ -1,1 +1,1 @@
-# Guided-Project-Investigating-Fandango-Movie-Rating
+# Guided Project: Investigating Fandango Movie Rating
